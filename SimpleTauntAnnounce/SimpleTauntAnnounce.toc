@@ -2,7 +2,7 @@
 ## Title: Simple Taunt Announce
 ## Notes: A simple taunt announcer
 ## Author: BeathsCurse (Bowmore - Silvermoon EU)
-## Version: 1.0.1
+## Version: 1.0.2
 ## SavedVariablesPerCharacter: STACFG
 
 SimpleTauntAnnounce.lua
