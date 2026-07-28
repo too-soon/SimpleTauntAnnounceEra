@@ -17,7 +17,7 @@
 -------------------------------------------------------------------------]]--
 
 local addonName, addon = ...
-addon.version = GetAddOnMetadata(addonName, 'Version')
+addon.version = C_AddOns.GetAddOnMetadata(addonName, 'Version')
 
 -- Expose our addon table through a global variable
 _G[addonName] = addon
